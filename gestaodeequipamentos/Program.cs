@@ -7,11 +7,11 @@ namespace gestaodeequipamentos
         static void Main(string[] args)
         {
             
-                string[] nomesequipamentos = new string[10];
-                decimal[] precosequipamentos = new decimal[10];
-                int[] numerosSeries= new int[10];
-                string[] datas = new string[10];
-                string[] fabricantesequipamentos = new string[10];
+                string[] nomesequipamentos = new string[100];
+                decimal[] precosequipamentos = new decimal[100];
+                int[] numerosSeries= new int[100];
+                string[] datas = new string[100];
+                string[] fabricantesequipamentos = new string[100];
 
             int posicaoequipamento = 0;
 
